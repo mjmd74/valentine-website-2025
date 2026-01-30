@@ -34,7 +34,7 @@ body {
     max-width: 600px;
     margin: 20px;
     overflow: visible !important;
-    backdrop-filter: blur(6px);        /* optional: glassy vibe */
+         
 }
 
 
