@@ -16,7 +16,7 @@ const CONFIG = {
     floatingEmojis: {
         hearts: ['₊˚⊹', 'ᰔ ', 'ꨄ︎'],  // Heart emojis
         bears: ['♡ , '💋 ', '❤️ ִ ࣪𖤐 ℓo͟v͟ꫀ ყoυ']                       // Cute bear emojis
-    },
+    }
 
     // Questions and answers
     // Customize each question and its possible responses
@@ -33,26 +33,26 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Will you be my Valentine on February 14th, 2025? ₊˚⊹♡ ", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
-    },
+    }
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "AS U SHOULDDD ILY MORE BBY",  // Shows when they go past 5000%
-        high: 'MHM THATS RIGHT!!",              // Shows when they go past 1000%
+        high: " MHM THATS RIGHT!!",              // Shows when they go past 1000%
         normal: "you should love me more than that.. smh"                           // Shows when they go past 100%
-    },
+    }
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "YAYYYYYY I LOVE YOU BABY I'M SO LUCKY TO HAVE YOU",
         message: "Can't wait to celebrate our first valentine (and the last one) with you",
         emojis: " ₊˚⊹ ᰔ ꨄ︎ ♡ 💋 ❤️ ִ ࣪𖤐 ℓo͟v͟ꫀ ყoυ .ᐟ "  // These will bounce around
-    }, 
+    }
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
@@ -62,7 +62,7 @@ const CONFIG = {
         buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
         buttonHover: "#A4BAC6",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#1B85B8"             // Text color (make sure it's readable!)
-    },
+    }
 
     // Animation settings
     // Adjust these if you want faster/slower animations
@@ -71,7 +71,7 @@ const CONFIG = {
         floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
-    },
+    }
 
     // Background Music (Optional)
     // Add your own music URL after getting proper licenses
