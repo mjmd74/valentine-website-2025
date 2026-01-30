@@ -78,8 +78,8 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
-        startText: "🎵 Play Music",        // Button text to start music
+        musicUrl: "https://res.cloudinary.com/dch1di6yu/video/upload/v1769795415/Shania_Twain_-_You_re_Still_The_One_Lyrics_-_Young_Pilgrim_Music_qjkjtg.mp3", // Music streaming URL
+        startText: "CLICK ON ME!",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
     }
