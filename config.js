@@ -15,7 +15,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['₊˚⊹', 'ᰔ ', 'ꨄ︎'],  // Heart emojis
-        bears: ['♡' , '💋 ', '❤️', '𖤐 ' , 'ℓo͟v͟ꫀ ყoυ']                       // Cute bear emojis
+        bears: ['♡' , '𖤐 ' , 'ℓo͟v͟ꫀ ყoυ']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? ₊˚⊹♡ ", // The big question!
+            text: "Will you be my Valentine for February 14th, 2025? ₊˚⊹♡ ", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -50,8 +50,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "YAYYYYYY I LOVE YOU BABY I'M SO LUCKY TO HAVE YOU",
-        message: "Can't wait to celebrate our first valentine (and the last one) with you",
-        emojis: " ₊˚⊹ ᰔ ꨄ︎ ♡ 💋 ❤️ ִ ࣪𖤐 ℓo͟v͟ꫀ ყoυ .ᐟ "  // These will bounce around
+        message: "Can't wait to celebrate our first valentine (and all the upcoming ones) with you",
+        emojis: " ₊˚⊹ ᰔ ꨄ︎ ♡ 𝟏𝟏:𝟏𝟏 ִ ࣪𖤐 ℓo͟v͟ꫀ ყoυ .ᐟ "  // These will bounce around
     },
 
     // Color scheme for the website
