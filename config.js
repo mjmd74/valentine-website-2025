@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "SURPRISE ! OPEN ME",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -60,14 +60,14 @@ const CONFIG = {
         backgroundStart: "#A4BAC6",      // Gradient start (try pastel colors for a soft look)
         backgroundEnd: "#A4BAC6",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#C6DEF1",          // Button hover color (slightly lighter than buttonBackground)
+        buttonHover: "#13265C",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#1B85B8"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
     // Adjust these if you want faster/slower animations
     animations: {
-        floatDuration: "15s",           // How long it takes hearts to float up (10-20s recommended)
+        floatDuration: "10s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
